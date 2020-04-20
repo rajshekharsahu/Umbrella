@@ -8,6 +8,7 @@ target 'Umbrella' do
   # Pods for Umbrella
 
 	pod 'Kingfisher', '~> 4.0'
+  pod 'Alamofire', '~> 4.0'
 
   target 'UmbrellaTests' do
     inherit! :search_paths
